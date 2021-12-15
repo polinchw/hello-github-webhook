@@ -1,10 +1,14 @@
 import sys
 import logging
+import os
 from flask import Flask, request
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 
 log = logging.getLogger('main')
+
+werkzeug = logging.getLogger('werkzeug')
+werkzeug.setLevel(os.environ.get('WERKZEUG_LOGLEVEL', 'ERROR').upper())
 
 # Port 8081
 app = Flask("pyProm")
