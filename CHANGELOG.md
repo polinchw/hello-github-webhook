@@ -1,3 +1,12 @@
+## [0.1.3](https://github.com/polinchw/hello-github-webhook/compare/v0.1.2...v0.1.3) (2021-12-16)
+
+
+### Bug Fixes
+
+* **workflow:** Use the meta output tags. ([5f68c76](https://github.com/polinchw/hello-github-webhook/commit/5f68c76da528437a05253018508b5d0194897ed5))
+
+
+
 ## [0.1.2](https://github.com/polinchw/hello-github-webhook/compare/v0.1.1...v0.1.2) (2021-12-16)
 
 
