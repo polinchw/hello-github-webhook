@@ -1,3 +1,12 @@
+## [0.1.9](https://github.com/polinchw/hello-github-webhook/compare/v0.1.8...v0.1.9) (2021-12-16)
+
+
+### Bug Fixes
+
+* **workflow:** Revert to repo name for the docker tag. ([0823d79](https://github.com/polinchw/hello-github-webhook/commit/0823d7971f75a9f806ad0f957a1e0a50215fb70b))
+
+
+
 ## [0.1.8](https://github.com/polinchw/hello-github-webhook/compare/v0.1.7...v0.1.8) (2021-12-16)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * **workflow:** Using docker build-push-action v2. ([8e592cb](https://github.com/polinchw/hello-github-webhook/commit/8e592cbe1a4c0cc812932ad9fc1f049566034580))
-
-
-
-## [0.1.4](https://github.com/polinchw/hello-github-webhook/compare/v0.1.3...v0.1.4) (2021-12-16)
-
-
-### Bug Fixes
-
-* **workflow:** Use the change log tag for the docker build. ([208613c](https://github.com/polinchw/hello-github-webhook/commit/208613c1997796c4234607fa53f6e670a346574b))
 
 
 
