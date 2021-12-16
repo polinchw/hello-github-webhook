@@ -48,4 +48,4 @@ jobs:
           context: .
           push: true
           tags: ${{ steps.changelog.outputs.tag }}
-          labels: ${{ steps.meta.outputs.labels }}
+          labels: ${{ steps.changelog.outputs.tag }}
