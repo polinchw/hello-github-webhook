@@ -1,3 +1,12 @@
+## [0.1.2](https://github.com/polinchw/hello-github-webhook/compare/v0.1.1...v0.1.2) (2021-12-16)
+
+
+### Bug Fixes
+
+* **workflow:** Docker to use changelog output. ([440eb82](https://github.com/polinchw/hello-github-webhook/commit/440eb82ae49bae0e6e2a7ce5d8cc278e7c68ae6b))
+
+
+
 ## [0.1.1](https://github.com/polinchw/hello-github-webhook/compare/v0.1.0...v0.1.1) (2021-12-16)
 
 
