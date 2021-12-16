@@ -1,3 +1,12 @@
+## [0.1.7](https://github.com/polinchw/hello-github-webhook/compare/v0.1.6...v0.1.7) (2021-12-16)
+
+
+### Bug Fixes
+
+* **workflow:** Formatting the docker image name. ([028b663](https://github.com/polinchw/hello-github-webhook/commit/028b6630224efd17b57d693b08c493edfe47bef0))
+
+
+
 ## [0.1.6](https://github.com/polinchw/hello-github-webhook/compare/v0.1.5...v0.1.6) (2021-12-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * **workflow:** Use the meta output tags. ([5f68c76](https://github.com/polinchw/hello-github-webhook/commit/5f68c76da528437a05253018508b5d0194897ed5))
-
-
-
-## [0.1.2](https://github.com/polinchw/hello-github-webhook/compare/v0.1.1...v0.1.2) (2021-12-16)
-
-
-### Bug Fixes
-
-* **workflow:** Docker to use changelog output. ([440eb82](https://github.com/polinchw/hello-github-webhook/commit/440eb82ae49bae0e6e2a7ce5d8cc278e7c68ae6b))
 
 
 
