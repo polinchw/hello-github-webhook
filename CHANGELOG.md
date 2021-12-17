@@ -1,3 +1,12 @@
+## [0.1.10](https://github.com/polinchw/hello-github-webhook/compare/v0.1.9...v0.1.10) (2021-12-17)
+
+
+### Bug Fixes
+
+* **workflow:** Try version on for the tag. ([535bb47](https://github.com/polinchw/hello-github-webhook/commit/535bb4727f5005379f6124d392d7e7706a822de1))
+
+
+
 ## [0.1.9](https://github.com/polinchw/hello-github-webhook/compare/v0.1.8...v0.1.9) (2021-12-16)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * **workflow:** Working with the tags. ([b04573a](https://github.com/polinchw/hello-github-webhook/commit/b04573afd425df839c6c56a2338bcbec7156f838))
-
-
-
-## [0.1.5](https://github.com/polinchw/hello-github-webhook/compare/v0.1.4...v0.1.5) (2021-12-16)
-
-
-### Bug Fixes
-
-* **workflow:** Using docker build-push-action v2. ([8e592cb](https://github.com/polinchw/hello-github-webhook/commit/8e592cbe1a4c0cc812932ad9fc1f049566034580))
 
 
 
