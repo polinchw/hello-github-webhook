@@ -1,3 +1,12 @@
+## [0.1.12](https://github.com/polinchw/hello-github-webhook/compare/v0.1.11...v0.1.12) (2021-12-17)
+
+
+### Bug Fixes
+
+* **workflow:** Fixing the readme format. ([b6ed678](https://github.com/polinchw/hello-github-webhook/commit/b6ed678bb75ffba51207c579e7acb961774f11ba))
+
+
+
 ## [0.1.11](https://github.com/polinchw/hello-github-webhook/compare/v0.1.10...v0.1.11) (2021-12-17)
 
 
@@ -32,15 +41,6 @@
 
 * **workflow:** Use GITHUB_REPOSITORY var. ([398d53d](https://github.com/polinchw/hello-github-webhook/commit/398d53d51e8a19d2cc6dedb9a7afbe51fa185a19))
 * **workflow:** Use GITHUB_REPOSITORY variable. ([d48cf6e](https://github.com/polinchw/hello-github-webhook/commit/d48cf6ef58fcff82a8c7e28186c745a84c148917))
-
-
-
-## [0.1.7](https://github.com/polinchw/hello-github-webhook/compare/v0.1.6...v0.1.7) (2021-12-16)
-
-
-### Bug Fixes
-
-* **workflow:** Formatting the docker image name. ([028b663](https://github.com/polinchw/hello-github-webhook/commit/028b6630224efd17b57d693b08c493edfe47bef0))
 
 
 
