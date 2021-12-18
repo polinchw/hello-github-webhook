@@ -1,3 +1,12 @@
+## [0.1.20](https://github.com/polinchw/hello-github-webhook/compare/v0.1.19...v0.1.20) (2021-12-18)
+
+
+### Bug Fixes
+
+* **dev:** Return hi. ([242a014](https://github.com/polinchw/hello-github-webhook/commit/242a0147482252d0a7d68c0d6c57b9f68e40b900))
+
+
+
 ## [0.1.19](https://github.com/polinchw/hello-github-webhook/compare/v0.1.18...v0.1.19) (2021-12-18)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * **dev:** Build a dev tag. ([2010ecc](https://github.com/polinchw/hello-github-webhook/commit/2010ecc15bdec338695dbec5bab8c5c4eb28cbd6))
-
-
-
-## [0.1.15](https://github.com/polinchw/hello-github-webhook/compare/v0.1.14...v0.1.15) (2021-12-18)
-
-
-### Bug Fixes
-
-* **dev:** Using dev branch. ([6d0448b](https://github.com/polinchw/hello-github-webhook/commit/6d0448b2495eef5271f7d74fc0ebf78eab4ee2f5))
 
 
 
