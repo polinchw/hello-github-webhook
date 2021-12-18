@@ -1,3 +1,12 @@
+## [0.1.17](https://github.com/polinchw/hello-github-webhook/compare/v0.1.16...v0.1.17) (2021-12-18)
+
+
+### Bug Fixes
+
+* **dev:** Return hi. ([7179bc8](https://github.com/polinchw/hello-github-webhook/commit/7179bc81390911f354b47736172a5affad47c83b))
+
+
+
 ## [0.1.16](https://github.com/polinchw/hello-github-webhook/compare/v0.1.15...v0.1.16) (2021-12-18)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * **workflow:** Returning OK. ([a02efb7](https://github.com/polinchw/hello-github-webhook/commit/a02efb79b80eda4bab11820d5e02e64d180d8b69))
-
-
-
-## [0.1.12](https://github.com/polinchw/hello-github-webhook/compare/v0.1.11...v0.1.12) (2021-12-17)
-
-
-### Bug Fixes
-
-* **workflow:** Fixing the readme format. ([b6ed678](https://github.com/polinchw/hello-github-webhook/commit/b6ed678bb75ffba51207c579e7acb961774f11ba))
 
 
 
