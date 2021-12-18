@@ -1,3 +1,12 @@
+## [0.1.15](https://github.com/polinchw/hello-github-webhook/compare/v0.1.14...v0.1.15) (2021-12-18)
+
+
+### Bug Fixes
+
+* **dev:** Using dev branch. ([6d0448b](https://github.com/polinchw/hello-github-webhook/commit/6d0448b2495eef5271f7d74fc0ebf78eab4ee2f5))
+
+
+
 ## [0.1.14](https://github.com/polinchw/hello-github-webhook/compare/v0.1.13...v0.1.14) (2021-12-17)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * **workflow:** Updated readme. ([58ef03c](https://github.com/polinchw/hello-github-webhook/commit/58ef03cf1f745624131352bdbe9fb7508157868f))
-
-
-
-## [0.1.10](https://github.com/polinchw/hello-github-webhook/compare/v0.1.9...v0.1.10) (2021-12-17)
-
-
-### Bug Fixes
-
-* **workflow:** Try version on for the tag. ([535bb47](https://github.com/polinchw/hello-github-webhook/commit/535bb4727f5005379f6124d392d7e7706a822de1))
 
 
 
