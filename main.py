@@ -17,7 +17,7 @@ app = Flask("pyProm")
 @app.route('/', methods=["GET"])
 def hi():
     if request.method == "GET":
-        return "hi", 200, None
+        return "hi there", 200, None
 
     return "Bad Request", 400, None
 
