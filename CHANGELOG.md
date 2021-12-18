@@ -1,3 +1,12 @@
+## [0.1.18](https://github.com/polinchw/hello-github-webhook/compare/v0.1.17...v0.1.18) (2021-12-18)
+
+
+### Bug Fixes
+
+* **dev:** Return hi there. ([a0d4e6b](https://github.com/polinchw/hello-github-webhook/commit/a0d4e6ba494394529120f36d241b9eb5dba7752f))
+
+
+
 ## [0.1.17](https://github.com/polinchw/hello-github-webhook/compare/v0.1.16...v0.1.17) (2021-12-18)
 
 
@@ -31,15 +40,6 @@
 ### Reverts
 
 * Revert "fix(workflow): Returning OK." ([e46b808](https://github.com/polinchw/hello-github-webhook/commit/e46b8084f3f2ba77c07ae43d8ce84ae23cf3a6a9))
-
-
-
-## [0.1.13](https://github.com/polinchw/hello-github-webhook/compare/v0.1.12...v0.1.13) (2021-12-17)
-
-
-### Bug Fixes
-
-* **workflow:** Returning OK. ([a02efb7](https://github.com/polinchw/hello-github-webhook/commit/a02efb79b80eda4bab11820d5e02e64d180d8b69))
 
 
 
