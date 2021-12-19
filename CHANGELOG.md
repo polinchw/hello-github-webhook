@@ -1,3 +1,13 @@
+## [0.1.25](https://github.com/polinchw/hello-github-webhook/compare/v0.1.24...v0.1.25) (2021-12-19)
+
+
+### Bug Fixes
+
+* **dev:** Adding docker-image-main.yml ([66d0b36](https://github.com/polinchw/hello-github-webhook/commit/66d0b3611fdd8b63c87743607aa53984d3f57394))
+* **dev:** Rename the workflow file to docker-image-main.yml ([a63d522](https://github.com/polinchw/hello-github-webhook/commit/a63d522e73f00c116453b3d1e8f8e488d41fce17))
+
+
+
 ## [0.1.24](https://github.com/polinchw/hello-github-webhook/compare/v0.1.23...v0.1.24) (2021-12-19)
 
 
@@ -31,15 +41,6 @@
 ### Bug Fixes
 
 * **dev:** Return hii. ([f9cf774](https://github.com/polinchw/hello-github-webhook/commit/f9cf77491bdce6f1461a5aa1afa85538b5abe294))
-
-
-
-## [0.1.20](https://github.com/polinchw/hello-github-webhook/compare/v0.1.19...v0.1.20) (2021-12-18)
-
-
-### Bug Fixes
-
-* **dev:** Return hi. ([242a014](https://github.com/polinchw/hello-github-webhook/commit/242a0147482252d0a7d68c0d6c57b9f68e40b900))
 
 
 
