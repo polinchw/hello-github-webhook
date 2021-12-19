@@ -1,3 +1,12 @@
+## [0.1.23](https://github.com/polinchw/hello-github-webhook/compare/v0.1.22...v0.1.23) (2021-12-19)
+
+
+### Bug Fixes
+
+* **dev:** Return works. ([02fb7d8](https://github.com/polinchw/hello-github-webhook/commit/02fb7d868484cbdc75fce7a1ad5662bbb3b0c536))
+
+
+
 ## [0.1.22](https://github.com/polinchw/hello-github-webhook/compare/v0.1.21...v0.1.22) (2021-12-18)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * **dev:** Return hello. ([51ae082](https://github.com/polinchw/hello-github-webhook/commit/51ae08209efbae63adcfd34a1769c3e9dfcc2a4c))
-
-
-
-## [0.1.18](https://github.com/polinchw/hello-github-webhook/compare/v0.1.17...v0.1.18) (2021-12-18)
-
-
-### Bug Fixes
-
-* **dev:** Return hi there. ([a0d4e6b](https://github.com/polinchw/hello-github-webhook/commit/a0d4e6ba494394529120f36d241b9eb5dba7752f))
 
 
 
