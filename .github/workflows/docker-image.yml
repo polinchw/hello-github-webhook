@@ -2,9 +2,9 @@ name: Docker Image CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ dev ]
   pull_request:
-    branches: [ main ]
+    branches: [ dev ]
 
 jobs:
   push_to_registry:
@@ -47,5 +47,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: polinchw/hello-github-webhook:${{ steps.changelog.outputs.version }}
+          tags: polinchw/hello-github-webhook:dev
           labels: ${{ steps.meta.outputs.labels }}

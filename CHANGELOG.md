@@ -1,45 +1,45 @@
-## [0.1.14](https://github.com/polinchw/hello-github-webhook/compare/v0.1.13...v0.1.14) (2021-12-17)
-
-
-### Reverts
-
-* Revert "fix(workflow): Returning OK." ([e46b808](https://github.com/polinchw/hello-github-webhook/commit/e46b8084f3f2ba77c07ae43d8ce84ae23cf3a6a9))
-
-
-
-## [0.1.13](https://github.com/polinchw/hello-github-webhook/compare/v0.1.12...v0.1.13) (2021-12-17)
+## [0.1.24](https://github.com/polinchw/hello-github-webhook/compare/v0.1.23...v0.1.24) (2021-12-19)
 
 
 ### Bug Fixes
 
-* **workflow:** Returning OK. ([a02efb7](https://github.com/polinchw/hello-github-webhook/commit/a02efb79b80eda4bab11820d5e02e64d180d8b69))
+* **dev:** Return works. ([ebba9a7](https://github.com/polinchw/hello-github-webhook/commit/ebba9a7dd5d2afd3d00bd0461941b9aa5672c8df))
 
 
 
-## [0.1.12](https://github.com/polinchw/hello-github-webhook/compare/v0.1.11...v0.1.12) (2021-12-17)
-
-
-### Bug Fixes
-
-* **workflow:** Fixing the readme format. ([b6ed678](https://github.com/polinchw/hello-github-webhook/commit/b6ed678bb75ffba51207c579e7acb961774f11ba))
-
-
-
-## [0.1.11](https://github.com/polinchw/hello-github-webhook/compare/v0.1.10...v0.1.11) (2021-12-17)
+## [0.1.23](https://github.com/polinchw/hello-github-webhook/compare/v0.1.22...v0.1.23) (2021-12-19)
 
 
 ### Bug Fixes
 
-* **workflow:** Updated readme. ([58ef03c](https://github.com/polinchw/hello-github-webhook/commit/58ef03cf1f745624131352bdbe9fb7508157868f))
+* **dev:** Return works. ([02fb7d8](https://github.com/polinchw/hello-github-webhook/commit/02fb7d868484cbdc75fce7a1ad5662bbb3b0c536))
 
 
 
-## [0.1.10](https://github.com/polinchw/hello-github-webhook/compare/v0.1.9...v0.1.10) (2021-12-17)
+## [0.1.22](https://github.com/polinchw/hello-github-webhook/compare/v0.1.21...v0.1.22) (2021-12-18)
 
 
 ### Bug Fixes
 
-* **workflow:** Try version on for the tag. ([535bb47](https://github.com/polinchw/hello-github-webhook/commit/535bb4727f5005379f6124d392d7e7706a822de1))
+* **dev:** Return hi. ([be37a44](https://github.com/polinchw/hello-github-webhook/commit/be37a44420895c7f237a0a66bf1f0cc014441e62))
+
+
+
+## [0.1.21](https://github.com/polinchw/hello-github-webhook/compare/v0.1.20...v0.1.21) (2021-12-18)
+
+
+### Bug Fixes
+
+* **dev:** Return hii. ([f9cf774](https://github.com/polinchw/hello-github-webhook/commit/f9cf77491bdce6f1461a5aa1afa85538b5abe294))
+
+
+
+## [0.1.20](https://github.com/polinchw/hello-github-webhook/compare/v0.1.19...v0.1.20) (2021-12-18)
+
+
+### Bug Fixes
+
+* **dev:** Return hi. ([242a014](https://github.com/polinchw/hello-github-webhook/commit/242a0147482252d0a7d68c0d6c57b9f68e40b900))
 
 
 
