@@ -1,3 +1,13 @@
+## [0.1.31](https://github.com/polinchw/hello-github-webhook/compare/v0.1.30...v0.1.31) (2021-12-20)
+
+
+### Bug Fixes
+
+* **main:** ArgoCD is amazing ([dba4545](https://github.com/polinchw/hello-github-webhook/commit/dba4545138fe33a12190b238f2c69f914e5d204a))
+* **main:** ArgoCD is amazing. ([7f28551](https://github.com/polinchw/hello-github-webhook/commit/7f28551438c67c0870cf01f8d98fb8c5a4cca6e0))
+
+
+
 ## [0.1.30](https://github.com/polinchw/hello-github-webhook/compare/v0.1.29...v0.1.30) (2021-12-19)
 
 
@@ -31,15 +41,6 @@
 ### Bug Fixes
 
 * **dev:** Argo cd is amazing! ([776def6](https://github.com/polinchw/hello-github-webhook/commit/776def61587ed71a9cb1cfac3579adc532b042fd))
-
-
-
-## [0.1.26](https://github.com/polinchw/hello-github-webhook/compare/v0.1.25...v0.1.26) (2021-12-19)
-
-
-### Bug Fixes
-
-* **dev:** Using the tag in the main. ([e6604c9](https://github.com/polinchw/hello-github-webhook/commit/e6604c96af96ea1e024d2699db964afc41001ebf))
 
 
 
