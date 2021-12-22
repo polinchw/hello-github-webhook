@@ -1,3 +1,12 @@
+## [0.1.32](https://github.com/polinchw/hello-github-webhook/compare/v0.1.31...v0.1.32) (2021-12-22)
+
+
+### Bug Fixes
+
+* **docker-image-dev:** Changing to release dev-6. ([03fcec2](https://github.com/polinchw/hello-github-webhook/commit/03fcec2916b4b2e67b17e3867e05aafb8d9b2a77))
+
+
+
 ## [0.1.31](https://github.com/polinchw/hello-github-webhook/compare/v0.1.30...v0.1.31) (2021-12-20)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * **dev:** Use version. ([5e84821](https://github.com/polinchw/hello-github-webhook/commit/5e84821e35ec7e26e933aef68f091b3b379828d7))
-
-
-
-## [0.1.27](https://github.com/polinchw/hello-github-webhook/compare/v0.1.26...v0.1.27) (2021-12-19)
-
-
-### Bug Fixes
-
-* **dev:** Argo cd is amazing! ([776def6](https://github.com/polinchw/hello-github-webhook/commit/776def61587ed71a9cb1cfac3579adc532b042fd))
 
 
 
