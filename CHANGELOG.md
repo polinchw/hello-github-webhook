@@ -1,3 +1,20 @@
+## [0.1.33](https://github.com/polinchw/hello-github-webhook/compare/v0.1.32...v0.1.33) (2021-12-22)
+
+
+### Bug Fixes
+
+* **docker-image-dev.yaml:** Labeling dev. ([8d6f9ec](https://github.com/polinchw/hello-github-webhook/commit/8d6f9ec16cc01be58bb76c692e576a9b60a0ae2f))
+* **docker-image-dev.yaml:** Remove versioning for dev. ([f181177](https://github.com/polinchw/hello-github-webhook/commit/f181177e7bee51d1d86b3a94bd6618734f4027fd))
+* **docker-image-main.yaml:** Labeling main. ([93ced91](https://github.com/polinchw/hello-github-webhook/commit/93ced91c34db46275431b7da7b396dfceea71ee2))
+* **docker-image-main.yaml:** Skip for pull-requests. ([d2f8af8](https://github.com/polinchw/hello-github-webhook/commit/d2f8af8166e07568992621b841ecf88d549a3977))
+
+
+### Reverts
+
+* Revert "fix(docker-image-dev): Changing to release dev-6." ([b78f6cb](https://github.com/polinchw/hello-github-webhook/commit/b78f6cb096861737af30c9d85fe04d56346903c6))
+
+
+
 ## [0.1.32](https://github.com/polinchw/hello-github-webhook/compare/v0.1.31...v0.1.32) (2021-12-22)
 
 
@@ -32,15 +49,6 @@
 ### Bug Fixes
 
 * **dev:** Skip pull_request build for now. ([e7cb561](https://github.com/polinchw/hello-github-webhook/commit/e7cb561a5ffc9f386dc8d7bcbd15f891ba5e9919))
-
-
-
-## [0.1.28](https://github.com/polinchw/hello-github-webhook/compare/v0.1.27...v0.1.28) (2021-12-19)
-
-
-### Bug Fixes
-
-* **dev:** Use version. ([5e84821](https://github.com/polinchw/hello-github-webhook/commit/5e84821e35ec7e26e933aef68f091b3b379828d7))
 
 
 
