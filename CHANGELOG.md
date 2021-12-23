@@ -1,3 +1,12 @@
+# [3.1.0](https://github.com/polinchw/hello-github-webhook/compare/v3.0.0...v3.1.0) (2021-12-23)
+
+
+### Features
+
+* **readme:** Adding ArgoCD to the readme. ([1ab010c](https://github.com/polinchw/hello-github-webhook/commit/1ab010c47c36a0374c3bf05e06fb69126f0400a3))
+
+
+
 # [3.0.0](https://github.com/polinchw/hello-github-webhook/compare/v1.0.0...v3.0.0) (2021-12-23)
 
 
@@ -66,16 +75,6 @@
 ### Bug Fixes
 
 * **docker-image-dev:** Changing to release dev-6. ([03fcec2](https://github.com/polinchw/hello-github-webhook/commit/03fcec2916b4b2e67b17e3867e05aafb8d9b2a77))
-
-
-
-## [0.1.31](https://github.com/polinchw/hello-github-webhook/compare/v0.1.30...v0.1.31) (2021-12-20)
-
-
-### Bug Fixes
-
-* **main:** ArgoCD is amazing ([dba4545](https://github.com/polinchw/hello-github-webhook/commit/dba4545138fe33a12190b238f2c69f914e5d204a))
-* **main:** ArgoCD is amazing. ([7f28551](https://github.com/polinchw/hello-github-webhook/commit/7f28551438c67c0870cf01f8d98fb8c5a4cca6e0))
 
 
 
