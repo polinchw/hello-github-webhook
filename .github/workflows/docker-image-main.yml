@@ -29,7 +29,7 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3.7.1
         with:
           github-token: ${{ secrets.CHANGELOG_RELEASE }}
-          tag-prefix: ''
+          tag-prefix: 'v'
 
       - name: create release
         uses: actions/create-release@v1
