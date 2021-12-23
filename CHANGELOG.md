@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/polinchw/hello-github-webhook/compare/v1.0.0...2.0.0) (2021-12-23)
+
+
+### Features
+
+* No tag prefix. ([16b3616](https://github.com/polinchw/hello-github-webhook/commit/16b36169eb2fdddd507394029c8de95979841292))
+* No tag prefix. ([17f5310](https://github.com/polinchw/hello-github-webhook/commit/17f5310b17fc5a771900988b47efa5f23d3312a9))
+
+
+### BREAKING CHANGES
+
+* `extends` key in config file is now used for extending other config files
+* `extends` key in config file is now used for extending other config files
+
+
+
 # [1.0.0](https://github.com/polinchw/hello-github-webhook/compare/v0.1.33...v1.0.0) (2021-12-23)
 
 
@@ -45,15 +61,6 @@
 
 * **main:** ArgoCD is amazing ([dba4545](https://github.com/polinchw/hello-github-webhook/commit/dba4545138fe33a12190b238f2c69f914e5d204a))
 * **main:** ArgoCD is amazing. ([7f28551](https://github.com/polinchw/hello-github-webhook/commit/7f28551438c67c0870cf01f8d98fb8c5a4cca6e0))
-
-
-
-## [0.1.30](https://github.com/polinchw/hello-github-webhook/compare/v0.1.29...v0.1.30) (2021-12-19)
-
-
-### Bug Fixes
-
-* **docker-image-name:** Using the version in the docker tag. ([4747e00](https://github.com/polinchw/hello-github-webhook/commit/4747e007c3be4274b396d98da45ba6d98aa1b767))
 
 
 
