@@ -20,7 +20,7 @@ jobs:
       - name: Run tests
         run: |
           pipenv install --dev
-          pipenv run pytest
+          pipenv run python -m pytest
   push_to_registry:
     name: Push Docker image to Docker Hub
     runs-on: ubuntu-latest
