@@ -2,7 +2,7 @@ name: Test MRs
 
 on:
   pull_request:
-    branches: [ main, dev ]
+    branches: '*'
 
 jobs:
   test:
