@@ -1,3 +1,17 @@
+# [1.0.0](https://github.com/polinchw/hello-github-webhook/compare/v0.1.33...v1.0.0) (2021-12-23)
+
+
+### Features
+
+* allow provided config object to extend other configs ([80be764](https://github.com/polinchw/hello-github-webhook/commit/80be76459574aea6bf437ca0e4cac7c9d6996d88))
+
+
+### BREAKING CHANGES
+
+* `extends` key in config file is now used for extending other config files
+
+
+
 ## [0.1.33](https://github.com/polinchw/hello-github-webhook/compare/v0.1.32...v0.1.33) (2021-12-22)
 
 
@@ -40,15 +54,6 @@
 ### Bug Fixes
 
 * **docker-image-name:** Using the version in the docker tag. ([4747e00](https://github.com/polinchw/hello-github-webhook/commit/4747e007c3be4274b396d98da45ba6d98aa1b767))
-
-
-
-## [0.1.29](https://github.com/polinchw/hello-github-webhook/compare/v0.1.28...v0.1.29) (2021-12-19)
-
-
-### Bug Fixes
-
-* **dev:** Skip pull_request build for now. ([e7cb561](https://github.com/polinchw/hello-github-webhook/commit/e7cb561a5ffc9f386dc8d7bcbd15f891ba5e9919))
 
 
 
