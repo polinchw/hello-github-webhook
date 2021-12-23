@@ -5,3 +5,7 @@ A simple app that uses Github webhooks to build the Docker image.  Then ArgoCD w
 
 ## Deployment
 The Helm chart is monitored in the [hello-github-webhook-cd](https://github.com/polinchw/hello-github-webhook-cd) repo by ArgoCD.
+
+## ArgoCD
+
+This app will be deployed with ArgoCD.
