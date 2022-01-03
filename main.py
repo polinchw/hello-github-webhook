@@ -21,6 +21,7 @@ def hi():
 
     return "Bad Request", 400, None
 
+
 @app.route('/', methods=["GET"])
 def health():
     if request.method == "GET":
