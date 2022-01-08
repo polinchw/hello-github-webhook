@@ -1,3 +1,17 @@
+## [3.1.1](https://github.com/polinchw/hello-github-webhook/compare/v3.1.0...v3.1.1) (2022-01-08)
+
+
+### Bug Fixes
+
+* **docker-image-dev:** Comment out pull_request. ([7ca14f0](https://github.com/polinchw/hello-github-webhook/commit/7ca14f0cd857345a375731b9f652014974a36687))
+* **docker-image-dev:** Use dev** for pull_requests. ([e32e564](https://github.com/polinchw/hello-github-webhook/commit/e32e564b20ca4081c4af52da8eecf6a21f40b39f))
+* **docker-image-dev:** Use the dynamic branch name. ([8990040](https://github.com/polinchw/hello-github-webhook/commit/8990040fb68cb5dd1b075fea97329cd4015ffa14))
+* **docker-image-dev.yml:** Build all dev pattern branches. ([3db4162](https://github.com/polinchw/hello-github-webhook/commit/3db41629e3b16ca12a2736bf9d133c2aa70c6969))
+* **readme:** Changed the technology name from webhook to actions. ([fbdc5f1](https://github.com/polinchw/hello-github-webhook/commit/fbdc5f11dd27256963514c30654daae1e49080d4))
+* **test:** Remove the test.yml ([8c77133](https://github.com/polinchw/hello-github-webhook/commit/8c77133dea96c1eaf1d50e9fbe67a97abdc61d28))
+
+
+
 # [3.1.0](https://github.com/polinchw/hello-github-webhook/compare/v3.0.0...v3.1.0) (2021-12-23)
 
 
@@ -66,15 +80,6 @@
 ### Reverts
 
 * Revert "fix(docker-image-dev): Changing to release dev-6." ([b78f6cb](https://github.com/polinchw/hello-github-webhook/commit/b78f6cb096861737af30c9d85fe04d56346903c6))
-
-
-
-## [0.1.32](https://github.com/polinchw/hello-github-webhook/compare/v0.1.31...v0.1.32) (2021-12-22)
-
-
-### Bug Fixes
-
-* **docker-image-dev:** Changing to release dev-6. ([03fcec2](https://github.com/polinchw/hello-github-webhook/commit/03fcec2916b4b2e67b17e3867e05aafb8d9b2a77))
 
 
 
