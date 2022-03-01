@@ -32,4 +32,16 @@ def test_index(app, client):
     expected ='ArgoCD is amazing'
     assert expected == res.get_data(as_text=True)
 
+def test_health(app, client):
+    """
+    Test the health context path /health.
+    Args:
+        app: The flask app.
+        client: The client.
+    """
+    res = client.get('/health')
+    assert res.status_code == 200
+    expected ='OK'
+    assert expected == res.get_data(as_text=True)
+
 
