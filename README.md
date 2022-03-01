@@ -9,3 +9,4 @@ The Helm chart is monitored in the [hello-github-webhook-cd](https://github.com/
 ## ArgoCD
 
 This app will be deployed with ArgoCD.
+
