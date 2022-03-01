@@ -1,4 +1,4 @@
-name: Docker Image CI for Dev
+name: Docker Image CI for Issues
 
 on:
   push:
