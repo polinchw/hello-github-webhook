@@ -1,3 +1,13 @@
+## [3.1.3](https://github.com/polinchw/hello-github-webhook/compare/v3.1.2...v3.1.3) (2022-03-01)
+
+
+### Bug Fixes
+
+* Removing pipeline for issues. ([3348a47](https://github.com/polinchw/hello-github-webhook/commit/3348a4788841cf3c8b621bb08815b077a8ba9108)), closes [#17](https://github.com/polinchw/hello-github-webhook/issues/17)
+* Updating readme. ([8ef0493](https://github.com/polinchw/hello-github-webhook/commit/8ef04930bec286fd2517dd134afae37a0febec44)), closes [#17](https://github.com/polinchw/hello-github-webhook/issues/17)
+
+
+
 ## [3.1.2](https://github.com/polinchw/hello-github-webhook/compare/v3.1.1...v3.1.2) (2022-03-01)
 
 
@@ -62,20 +72,6 @@
 
 * **docker-image-dev:** Adding tests.  Going back to v prefix.
 * `extends` key in config file is now used for extending other config files
-* `extends` key in config file is now used for extending other config files
-
-
-
-# [1.0.0](https://github.com/polinchw/hello-github-webhook/compare/v0.1.33...v1.0.0) (2021-12-23)
-
-
-### Features
-
-* allow provided config object to extend other configs ([80be764](https://github.com/polinchw/hello-github-webhook/commit/80be76459574aea6bf437ca0e4cac7c9d6996d88))
-
-
-### BREAKING CHANGES
-
 * `extends` key in config file is now used for extending other config files
 
 
