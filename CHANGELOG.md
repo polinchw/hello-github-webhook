@@ -1,3 +1,12 @@
+## [3.1.5](https://github.com/polinchw/hello-github-webhook/compare/v3.1.4...v3.1.5) (2022-03-01)
+
+
+### Bug Fixes
+
+*  [#23](https://github.com/polinchw/hello-github-webhook/issues/23) Adding more tests. ([0c726f2](https://github.com/polinchw/hello-github-webhook/commit/0c726f263e0dbee23301ed295c01c34c955a1b3e))
+
+
+
 ## [3.1.4](https://github.com/polinchw/hello-github-webhook/compare/v3.1.3...v3.1.4) (2022-03-01)
 
 
@@ -43,15 +52,6 @@
 * **docker-image-dev.yml:** Build all dev pattern branches. ([3db4162](https://github.com/polinchw/hello-github-webhook/commit/3db41629e3b16ca12a2736bf9d133c2aa70c6969))
 * **readme:** Changed the technology name from webhook to actions. ([fbdc5f1](https://github.com/polinchw/hello-github-webhook/commit/fbdc5f11dd27256963514c30654daae1e49080d4))
 * **test:** Remove the test.yml ([8c77133](https://github.com/polinchw/hello-github-webhook/commit/8c77133dea96c1eaf1d50e9fbe67a97abdc61d28))
-
-
-
-# [3.1.0](https://github.com/polinchw/hello-github-webhook/compare/v3.0.0...v3.1.0) (2021-12-23)
-
-
-### Features
-
-* **readme:** Adding ArgoCD to the readme. ([1ab010c](https://github.com/polinchw/hello-github-webhook/commit/1ab010c47c36a0374c3bf05e06fb69126f0400a3))
 
 
 
