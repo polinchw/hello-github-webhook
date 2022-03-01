@@ -1,3 +1,17 @@
+## [3.1.2](https://github.com/polinchw/hello-github-webhook/compare/v3.1.1...v3.1.2) (2022-03-01)
+
+
+### Bug Fixes
+
+* New build pipeline for VCS Test issue Fixes [#13](https://github.com/polinchw/hello-github-webhook/issues/13) ([f6fd90c](https://github.com/polinchw/hello-github-webhook/commit/f6fd90c2d6961ddbc137d2b5c82e1013edee9382))
+* New build pipeline for VCS Test issue Fixes [#13](https://github.com/polinchw/hello-github-webhook/issues/13) ([2222b4d](https://github.com/polinchw/hello-github-webhook/commit/2222b4d6b44f821f4398378d2a2c2f6be53b776b))
+* New build pipeline for VCS Test issue Fixes [#13](https://github.com/polinchw/hello-github-webhook/issues/13) ([1b94a9b](https://github.com/polinchw/hello-github-webhook/commit/1b94a9bcbde31f2d070a4848952d3815926200b4))
+* Remove mr on push [#13](https://github.com/polinchw/hello-github-webhook/issues/13) ([ab13cf9](https://github.com/polinchw/hello-github-webhook/commit/ab13cf922dab840b5381b2f813477097c779b99b))
+* Updating gitignore. ([46a6797](https://github.com/polinchw/hello-github-webhook/commit/46a67972e7d6c2b162695ac40d08285c677ba05d))
+* VCS Test issue ([f6c8578](https://github.com/polinchw/hello-github-webhook/commit/f6c8578afd3c87a3a68c0228cbb034d2a5a79af3)), closes [#13](https://github.com/polinchw/hello-github-webhook/issues/13)
+
+
+
 ## [3.1.1](https://github.com/polinchw/hello-github-webhook/compare/v3.1.0...v3.1.1) (2022-01-08)
 
 
@@ -63,23 +77,6 @@
 ### BREAKING CHANGES
 
 * `extends` key in config file is now used for extending other config files
-
-
-
-## [0.1.33](https://github.com/polinchw/hello-github-webhook/compare/v0.1.32...v0.1.33) (2021-12-22)
-
-
-### Bug Fixes
-
-* **docker-image-dev.yaml:** Labeling dev. ([8d6f9ec](https://github.com/polinchw/hello-github-webhook/commit/8d6f9ec16cc01be58bb76c692e576a9b60a0ae2f))
-* **docker-image-dev.yaml:** Remove versioning for dev. ([f181177](https://github.com/polinchw/hello-github-webhook/commit/f181177e7bee51d1d86b3a94bd6618734f4027fd))
-* **docker-image-main.yaml:** Labeling main. ([93ced91](https://github.com/polinchw/hello-github-webhook/commit/93ced91c34db46275431b7da7b396dfceea71ee2))
-* **docker-image-main.yaml:** Skip for pull-requests. ([d2f8af8](https://github.com/polinchw/hello-github-webhook/commit/d2f8af8166e07568992621b841ecf88d549a3977))
-
-
-### Reverts
-
-* Revert "fix(docker-image-dev): Changing to release dev-6." ([b78f6cb](https://github.com/polinchw/hello-github-webhook/commit/b78f6cb096861737af30c9d85fe04d56346903c6))
 
 
 
