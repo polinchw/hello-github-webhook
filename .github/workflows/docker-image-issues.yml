@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - '**issue**'
-#  pull_request:
-#    branches:
-#      - 'dev**'
 
 jobs:
   test:
