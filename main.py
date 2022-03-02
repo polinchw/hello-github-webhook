@@ -16,6 +16,11 @@ app = Flask("pyProm")
 
 @app.route('/', methods=["GET"])
 def hi():
+    """Returns 'ArgoCD is amazing'
+
+    Returns:
+        str: 'ArgoCD is amazing'
+    """ 
     if request.method == "GET":
         return "ArgoCD is amazing", 200, None
 
@@ -23,6 +28,11 @@ def hi():
 
 @app.route('/health', methods=["GET"])
 def health():
+    """Returns 'OK'
+
+    Returns:
+        str: 'OK'
+    """
     if request.method == "GET":
         return "OK", 200, None
 
