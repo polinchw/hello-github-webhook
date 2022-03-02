@@ -14,7 +14,6 @@ werkzeug.setLevel(os.environ.get('WERKZEUG_LOGLEVEL', 'ERROR').upper())
 app = Flask("pyProm")
 
 
-
 @app.route('/', methods=["GET"])
 def hi():
     """Returns 'ArgoCD is amazing'
