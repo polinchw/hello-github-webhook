@@ -1,3 +1,12 @@
+## [3.1.6](https://github.com/polinchw/hello-github-webhook/compare/v3.1.5...v3.1.6) (2022-03-02)
+
+
+### Bug Fixes
+
+* **main:** Add Doc Strings ([607b732](https://github.com/polinchw/hello-github-webhook/commit/607b732d1a83cc489bd7bd05b0773ab476f61e70)), closes [#25](https://github.com/polinchw/hello-github-webhook/issues/25)
+
+
+
 ## [3.1.5](https://github.com/polinchw/hello-github-webhook/compare/v3.1.4...v3.1.5) (2022-03-01)
 
 
@@ -38,20 +47,6 @@
 * Remove mr on push [#13](https://github.com/polinchw/hello-github-webhook/issues/13) ([ab13cf9](https://github.com/polinchw/hello-github-webhook/commit/ab13cf922dab840b5381b2f813477097c779b99b))
 * Updating gitignore. ([46a6797](https://github.com/polinchw/hello-github-webhook/commit/46a67972e7d6c2b162695ac40d08285c677ba05d))
 * VCS Test issue ([f6c8578](https://github.com/polinchw/hello-github-webhook/commit/f6c8578afd3c87a3a68c0228cbb034d2a5a79af3)), closes [#13](https://github.com/polinchw/hello-github-webhook/issues/13)
-
-
-
-## [3.1.1](https://github.com/polinchw/hello-github-webhook/compare/v3.1.0...v3.1.1) (2022-01-08)
-
-
-### Bug Fixes
-
-* **docker-image-dev:** Comment out pull_request. ([7ca14f0](https://github.com/polinchw/hello-github-webhook/commit/7ca14f0cd857345a375731b9f652014974a36687))
-* **docker-image-dev:** Use dev** for pull_requests. ([e32e564](https://github.com/polinchw/hello-github-webhook/commit/e32e564b20ca4081c4af52da8eecf6a21f40b39f))
-* **docker-image-dev:** Use the dynamic branch name. ([8990040](https://github.com/polinchw/hello-github-webhook/commit/8990040fb68cb5dd1b075fea97329cd4015ffa14))
-* **docker-image-dev.yml:** Build all dev pattern branches. ([3db4162](https://github.com/polinchw/hello-github-webhook/commit/3db41629e3b16ca12a2736bf9d133c2aa70c6969))
-* **readme:** Changed the technology name from webhook to actions. ([fbdc5f1](https://github.com/polinchw/hello-github-webhook/commit/fbdc5f11dd27256963514c30654daae1e49080d4))
-* **test:** Remove the test.yml ([8c77133](https://github.com/polinchw/hello-github-webhook/commit/8c77133dea96c1eaf1d50e9fbe67a97abdc61d28))
 
 
 
