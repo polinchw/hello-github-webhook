@@ -38,6 +38,15 @@ def health():
 
     return "Bad Request", 400, None
 
+
+@app.route('/demo', methods=["GET"])
+def demo():
+    if request.method == "GET":
+        return "OK", 200, None
+
+    return "Bad Request", 400, None
+
+
 try:
     if __name__ == '__main__':
         app.run(host="0.0.0.0", port=9090)
