@@ -1,3 +1,12 @@
+## [3.1.8](https://github.com/polinchw/hello-github-webhook/compare/v3.1.7...v3.1.8) (2022-03-03)
+
+
+### Bug Fixes
+
+* Demo ([7e5748b](https://github.com/polinchw/hello-github-webhook/commit/7e5748b01f3ecb19404273259866384d02556947)), closes [#29](https://github.com/polinchw/hello-github-webhook/issues/29)
+
+
+
 ## [3.1.7](https://github.com/polinchw/hello-github-webhook/compare/v3.1.6...v3.1.7) (2022-03-03)
 
 
@@ -35,16 +44,6 @@
 
 * Work on pipeline [#19](https://github.com/polinchw/hello-github-webhook/issues/19) Fixing tests. ([b369f15](https://github.com/polinchw/hello-github-webhook/commit/b369f15fa842708fd59af31047cb3145c731ea92))
 * Working on the unit tests. ([711780c](https://github.com/polinchw/hello-github-webhook/commit/711780c7f859a658818ea45d5f53ef73cd5045d4)), closes [#19](https://github.com/polinchw/hello-github-webhook/issues/19)
-
-
-
-## [3.1.3](https://github.com/polinchw/hello-github-webhook/compare/v3.1.2...v3.1.3) (2022-03-01)
-
-
-### Bug Fixes
-
-* Removing pipeline for issues. ([3348a47](https://github.com/polinchw/hello-github-webhook/commit/3348a4788841cf3c8b621bb08815b077a8ba9108)), closes [#17](https://github.com/polinchw/hello-github-webhook/issues/17)
-* Updating readme. ([8ef0493](https://github.com/polinchw/hello-github-webhook/commit/8ef04930bec286fd2517dd134afae37a0febec44)), closes [#17](https://github.com/polinchw/hello-github-webhook/issues/17)
 
 
 
