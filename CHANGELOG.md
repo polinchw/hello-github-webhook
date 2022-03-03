@@ -1,3 +1,15 @@
+## [3.1.7](https://github.com/polinchw/hello-github-webhook/compare/v3.1.6...v3.1.7) (2022-03-03)
+
+
+### Bug Fixes
+
+* Adding comments to tests. ([0f724ac](https://github.com/polinchw/hello-github-webhook/commit/0f724ac9e87d78619b8d3d1f9ad715b3ddac429e)), closes [#27](https://github.com/polinchw/hello-github-webhook/issues/27)
+* Correcting port in comment. ([5124fd2](https://github.com/polinchw/hello-github-webhook/commit/5124fd241155acec9dd7f8e5da79fdec71efce8d)), closes [#27](https://github.com/polinchw/hello-github-webhook/issues/27)
+* Deploy change. ([d513c25](https://github.com/polinchw/hello-github-webhook/commit/d513c25e0dd6a2f9a64bfd9dd0a0cccce623c0c7)), closes [#27](https://github.com/polinchw/hello-github-webhook/issues/27)
+* Fixing formatting. ([614178c](https://github.com/polinchw/hello-github-webhook/commit/614178cbd56e0bb515115876b689c8f47787983c)), closes [#27](https://github.com/polinchw/hello-github-webhook/issues/27)
+
+
+
 ## [3.1.6](https://github.com/polinchw/hello-github-webhook/compare/v3.1.5...v3.1.6) (2022-03-02)
 
 
@@ -33,20 +45,6 @@
 
 * Removing pipeline for issues. ([3348a47](https://github.com/polinchw/hello-github-webhook/commit/3348a4788841cf3c8b621bb08815b077a8ba9108)), closes [#17](https://github.com/polinchw/hello-github-webhook/issues/17)
 * Updating readme. ([8ef0493](https://github.com/polinchw/hello-github-webhook/commit/8ef04930bec286fd2517dd134afae37a0febec44)), closes [#17](https://github.com/polinchw/hello-github-webhook/issues/17)
-
-
-
-## [3.1.2](https://github.com/polinchw/hello-github-webhook/compare/v3.1.1...v3.1.2) (2022-03-01)
-
-
-### Bug Fixes
-
-* New build pipeline for VCS Test issue Fixes [#13](https://github.com/polinchw/hello-github-webhook/issues/13) ([f6fd90c](https://github.com/polinchw/hello-github-webhook/commit/f6fd90c2d6961ddbc137d2b5c82e1013edee9382))
-* New build pipeline for VCS Test issue Fixes [#13](https://github.com/polinchw/hello-github-webhook/issues/13) ([2222b4d](https://github.com/polinchw/hello-github-webhook/commit/2222b4d6b44f821f4398378d2a2c2f6be53b776b))
-* New build pipeline for VCS Test issue Fixes [#13](https://github.com/polinchw/hello-github-webhook/issues/13) ([1b94a9b](https://github.com/polinchw/hello-github-webhook/commit/1b94a9bcbde31f2d070a4848952d3815926200b4))
-* Remove mr on push [#13](https://github.com/polinchw/hello-github-webhook/issues/13) ([ab13cf9](https://github.com/polinchw/hello-github-webhook/commit/ab13cf922dab840b5381b2f813477097c779b99b))
-* Updating gitignore. ([46a6797](https://github.com/polinchw/hello-github-webhook/commit/46a67972e7d6c2b162695ac40d08285c677ba05d))
-* VCS Test issue ([f6c8578](https://github.com/polinchw/hello-github-webhook/commit/f6c8578afd3c87a3a68c0228cbb034d2a5a79af3)), closes [#13](https://github.com/polinchw/hello-github-webhook/issues/13)
 
 
 
