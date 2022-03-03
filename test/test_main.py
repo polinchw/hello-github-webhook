@@ -12,6 +12,11 @@ log = logging.getLogger('main')
 
 @pytest.fixture
 def app():
+    """The test fixture.
+
+    Yields:
+        Flask: The flask app.
+    """
     yield flask_app
 
 
