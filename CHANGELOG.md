@@ -1,3 +1,12 @@
+## [3.1.10](https://github.com/polinchw/hello-github-webhook/compare/v3.1.9...v3.1.10) (2022-04-14)
+
+
+### Bug Fixes
+
+* Fix Unit Tests [#33](https://github.com/polinchw/hello-github-webhook/issues/33) ([a7bfb04](https://github.com/polinchw/hello-github-webhook/commit/a7bfb045fca6f0abf37bbf9efa8d59572983c1d4))
+
+
+
 ## [3.1.9](https://github.com/polinchw/hello-github-webhook/compare/v3.1.8...v3.1.9) (2022-04-13)
 
 
@@ -35,15 +44,6 @@
 ### Bug Fixes
 
 * **main:** Add Doc Strings ([607b732](https://github.com/polinchw/hello-github-webhook/commit/607b732d1a83cc489bd7bd05b0773ab476f61e70)), closes [#25](https://github.com/polinchw/hello-github-webhook/issues/25)
-
-
-
-## [3.1.5](https://github.com/polinchw/hello-github-webhook/compare/v3.1.4...v3.1.5) (2022-03-01)
-
-
-### Bug Fixes
-
-*  [#23](https://github.com/polinchw/hello-github-webhook/issues/23) Adding more tests. ([0c726f2](https://github.com/polinchw/hello-github-webhook/commit/0c726f263e0dbee23301ed295c01c34c955a1b3e))
 
 
 
