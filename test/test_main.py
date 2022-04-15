@@ -34,7 +34,7 @@ def test_index(app, client):
     """
     res = client.get('/')
     assert res.status_code == 200
-    expected ='ArgoCD is amazing.  Seriously!'
+    expected ='ArgoCD is amazing.  Seriously, Yes it is!'
     assert expected == res.get_data(as_text=True)
 
 def test_health(app, client):

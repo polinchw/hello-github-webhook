@@ -22,7 +22,7 @@ def hi():
         str: 'ArgoCD is amazing'
     """ 
     if request.method == "GET":
-        return "ArgoCD is amazing.  Seriously!", 200, None
+        return "ArgoCD is amazing.  Seriously, Yes it is!", 200, None
 
     return "Bad Request", 400, None
 
