@@ -1,3 +1,17 @@
+# [4.0.0](https://github.com/polinchw/hello-github-webhook/compare/v3.1.11...v4.0.0) (2022-04-15)
+
+
+### Bug Fixes
+
+* Breaking Change Demo [#37](https://github.com/polinchw/hello-github-webhook/issues/37) ([4d413a9](https://github.com/polinchw/hello-github-webhook/commit/4d413a9b45cec4f9563d55b4014fda07a98d22eb))
+
+
+### BREAKING CHANGES
+
+* #37 Breaks everying.
+
+
+
 ## [3.1.11](https://github.com/polinchw/hello-github-webhook/compare/v3.1.10...v3.1.11) (2022-04-15)
 
 
@@ -33,18 +47,6 @@
 ### Bug Fixes
 
 * Demo ([7e5748b](https://github.com/polinchw/hello-github-webhook/commit/7e5748b01f3ecb19404273259866384d02556947)), closes [#29](https://github.com/polinchw/hello-github-webhook/issues/29)
-
-
-
-## [3.1.7](https://github.com/polinchw/hello-github-webhook/compare/v3.1.6...v3.1.7) (2022-03-03)
-
-
-### Bug Fixes
-
-* Adding comments to tests. ([0f724ac](https://github.com/polinchw/hello-github-webhook/commit/0f724ac9e87d78619b8d3d1f9ad715b3ddac429e)), closes [#27](https://github.com/polinchw/hello-github-webhook/issues/27)
-* Correcting port in comment. ([5124fd2](https://github.com/polinchw/hello-github-webhook/commit/5124fd241155acec9dd7f8e5da79fdec71efce8d)), closes [#27](https://github.com/polinchw/hello-github-webhook/issues/27)
-* Deploy change. ([d513c25](https://github.com/polinchw/hello-github-webhook/commit/d513c25e0dd6a2f9a64bfd9dd0a0cccce623c0c7)), closes [#27](https://github.com/polinchw/hello-github-webhook/issues/27)
-* Fixing formatting. ([614178c](https://github.com/polinchw/hello-github-webhook/commit/614178cbd56e0bb515115876b689c8f47787983c)), closes [#27](https://github.com/polinchw/hello-github-webhook/issues/27)
 
 
 
