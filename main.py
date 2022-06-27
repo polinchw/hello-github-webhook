@@ -37,7 +37,6 @@ def health():
 
     return "Bad Request", 400, None
 
-
 @app.route('/demo', methods=["GET"])
 def demo():
     if request.method == "GET":
