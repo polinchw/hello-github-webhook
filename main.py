@@ -3,7 +3,7 @@ import logging
 import os
 from flask import Flask, request
 
-logging.basicConfig(stream=sys.stdout, level=logging.INFO)
+logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 log = logging.getLogger('main')
 
