@@ -12,4 +12,4 @@ This app will be deployed with ArgoCD.
 
 ## ArgoCD Autopilot
 
-This app can be deployed with ArgoCD Autopilot.
+This app can be deployed with [ArgoCD Autopilot](https://github.com/polinchw/auto-pilot).
