@@ -24,7 +24,6 @@ def app():
 def client(app):
     return app.test_client()
 
-
 def test_index(app, client):
     """
     Test the root context path /.
@@ -34,7 +33,7 @@ def test_index(app, client):
     """
     res = client.get('/')
     assert res.status_code == 200
-    expected ='ArgoCD is amazing.  Break it!'
+    expected ='ArgoCD is amazing.  Especially with Auto-pilot'
     assert expected == res.get_data(as_text=True)
 
 def test_health(app, client):
