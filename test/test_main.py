@@ -24,7 +24,6 @@ def app():
 def client(app):
     return app.test_client()
 
-
 def test_index(app, client):
     """
     Test the root context path /.
