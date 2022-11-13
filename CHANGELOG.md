@@ -1,3 +1,12 @@
+## [4.0.5](https://github.com/polinchw/hello-github-webhook/compare/v4.0.4...v4.0.5) (2022-11-13)
+
+
+### Bug Fixes
+
+* Demo Issue for YouTube [#47](https://github.com/polinchw/hello-github-webhook/issues/47) ([e09f798](https://github.com/polinchw/hello-github-webhook/commit/e09f798f7ab4cce16727a28dd25aabd059540755))
+
+
+
 ## [4.0.4](https://github.com/polinchw/hello-github-webhook/compare/v4.0.3...v4.0.4) (2022-11-08)
 
 
@@ -31,20 +40,6 @@
 ### Bug Fixes
 
 *  Let's go AutoPilot. ([dbe675c](https://github.com/polinchw/hello-github-webhook/commit/dbe675c1e4514de2012af57f7b1a234329a53c51))
-
-
-
-# [4.0.0](https://github.com/polinchw/hello-github-webhook/compare/v3.1.11...v4.0.0) (2022-04-15)
-
-
-### Bug Fixes
-
-* Breaking Change Demo [#37](https://github.com/polinchw/hello-github-webhook/issues/37) ([4d413a9](https://github.com/polinchw/hello-github-webhook/commit/4d413a9b45cec4f9563d55b4014fda07a98d22eb))
-
-
-### BREAKING CHANGES
-
-* #37 Breaks everying.
 
 
 
