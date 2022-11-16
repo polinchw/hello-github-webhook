@@ -1,3 +1,12 @@
+## [4.0.7](https://github.com/polinchw/hello-github-webhook/compare/v4.0.6...v4.0.7) (2022-11-16)
+
+
+### Bug Fixes
+
+* Remove cache setting. ([a7cd366](https://github.com/polinchw/hello-github-webhook/commit/a7cd36618f8872464ab044e9557d96bcae103dae))
+
+
+
 ## [4.0.6](https://github.com/polinchw/hello-github-webhook/compare/v4.0.5...v4.0.6) (2022-11-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Adding autopilot link. ([a08ea1f](https://github.com/polinchw/hello-github-webhook/commit/a08ea1f620dd65e38c7256afbd0949c453c201f8))
-
-
-
-## [4.0.2](https://github.com/polinchw/hello-github-webhook/compare/v4.0.1...v4.0.2) (2022-11-03)
-
-
-### Bug Fixes
-
-* dev-14 Adding an autopilot reference. ([a9575a6](https://github.com/polinchw/hello-github-webhook/commit/a9575a62fc862c6dfa753f50616c7186dd0c32c1))
 
 
 
