@@ -1,3 +1,12 @@
+## [4.0.6](https://github.com/polinchw/hello-github-webhook/compare/v4.0.5...v4.0.6) (2022-11-16)
+
+
+### Bug Fixes
+
+* Set no-cache to true. ([74a5628](https://github.com/polinchw/hello-github-webhook/commit/74a56286bd9c349647f4a04e8297ae47257cbf9d))
+
+
+
 ## [4.0.5](https://github.com/polinchw/hello-github-webhook/compare/v4.0.4...v4.0.5) (2022-11-13)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * dev-14 Adding an autopilot reference. ([a9575a6](https://github.com/polinchw/hello-github-webhook/commit/a9575a62fc862c6dfa753f50616c7186dd0c32c1))
-
-
-
-## [4.0.1](https://github.com/polinchw/hello-github-webhook/compare/v4.0.0...v4.0.1) (2022-11-03)
-
-
-### Bug Fixes
-
-*  Let's go AutoPilot. ([dbe675c](https://github.com/polinchw/hello-github-webhook/commit/dbe675c1e4514de2012af57f7b1a234329a53c51))
 
 
 
