@@ -46,13 +46,6 @@ def demo():
 
     return "Bad Request", 400, None
 
-@app.route('/youtube', methods=["GET"])
-def youtube():
-    if request.method == "GET":
-        return "OK", 200, None
-
-    return "Bad Request", 400, None
-
 
 
 try:
