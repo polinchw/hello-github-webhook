@@ -1,3 +1,12 @@
+## [4.1.2](https://github.com/polinchw/hello-github-webhook/compare/v4.1.1...v4.1.2) (2023-11-05)
+
+
+### Bug Fixes
+
+* Fix the release process.  The change log is not working. [#57](https://github.com/polinchw/hello-github-webhook/issues/57) ([a45272a](https://github.com/polinchw/hello-github-webhook/commit/a45272af7b05fbccbc2521b782f47ec9704b7d7b))
+
+
+
 ## [4.1.1](https://github.com/polinchw/hello-github-webhook/compare/v4.1.0...v4.1.1) (2023-11-05)
 
 
@@ -34,15 +43,6 @@
 ### Bug Fixes
 
 * Pre-Demo [#49](https://github.com/polinchw/hello-github-webhook/issues/49) ([8bf65d3](https://github.com/polinchw/hello-github-webhook/commit/8bf65d306852cb743d64b4435c49105e81bd6343))
-
-
-
-## [4.0.7](https://github.com/polinchw/hello-github-webhook/compare/v4.0.6...v4.0.7) (2022-11-16)
-
-
-### Bug Fixes
-
-* Remove cache setting. ([a7cd366](https://github.com/polinchw/hello-github-webhook/commit/a7cd36618f8872464ab044e9557d96bcae103dae))
 
 
 
