@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Log in to Docker Hub
         uses: docker/login-action@f054a8b539a109f9f41c372932f1ae047eff08c9
@@ -46,14 +46,12 @@ jobs:
           tag-prefix: 'v'
 
       - name: create release
-        uses: actions/create-release@v1.0.0
+        uses: elgohr/Github-Release-Action@v5
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
         env:
           GITHUB_TOKEN: ${{ secrets.CHANGELOG_RELEASE }}
         with:
-          tag_name: ${{ steps.changelog.outputs.tag }}
-          release_name: ${{ steps.changelog.outputs.tag }}
-          body: ${{ steps.changelog.outputs.clean_changelog }}
+          title: ${{ steps.changelog.outputs.tag }}
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v2
