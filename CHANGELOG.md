@@ -1,3 +1,12 @@
+## [4.1.3](https://github.com/polinchw/hello-github-webhook/compare/v4.1.2...v4.1.3) (2023-11-05)
+
+
+### Bug Fixes
+
+* Update the create the release to v2. [#59](https://github.com/polinchw/hello-github-webhook/issues/59) ([490d4e5](https://github.com/polinchw/hello-github-webhook/commit/490d4e54ce57e8f4c3006607ab2440ad7d6bb480))
+
+
+
 ## [4.1.2](https://github.com/polinchw/hello-github-webhook/compare/v4.1.1...v4.1.2) (2023-11-05)
 
 
@@ -34,15 +43,6 @@
 ### Bug Fixes
 
 * Demo Issue [#51](https://github.com/polinchw/hello-github-webhook/issues/51) ([4f11449](https://github.com/polinchw/hello-github-webhook/commit/4f1144977e1734c29b6999334aee54f33e174aff))
-
-
-
-## [4.0.8](https://github.com/polinchw/hello-github-webhook/compare/v4.0.7...v4.0.8) (2022-11-25)
-
-
-### Bug Fixes
-
-* Pre-Demo [#49](https://github.com/polinchw/hello-github-webhook/issues/49) ([8bf65d3](https://github.com/polinchw/hello-github-webhook/commit/8bf65d306852cb743d64b4435c49105e81bd6343))
 
 
 
