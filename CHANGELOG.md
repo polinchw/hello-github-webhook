@@ -1,3 +1,12 @@
+## [4.1.8](https://github.com/polinchw/hello-github-webhook/compare/v4.1.7...v4.1.8) (2023-11-05)
+
+
+### Bug Fixes
+
+* Remove bodyfile.md Remove bodyfile.md [#71](https://github.com/polinchw/hello-github-webhook/issues/71) ([3e4b1fa](https://github.com/polinchw/hello-github-webhook/commit/3e4b1fa933bea8dcbcf0099d6063bf010071f247))
+
+
+
 ## [4.1.7](https://github.com/polinchw/hello-github-webhook/compare/v4.1.6...v4.1.7) (2023-11-05)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Fix the release process [#61](https://github.com/polinchw/hello-github-webhook/issues/61) ([ee2bf4f](https://github.com/polinchw/hello-github-webhook/commit/ee2bf4fedf6d1fa7bef01d6d8f5a3623abc3920f))
-
-
-
-## [4.1.3](https://github.com/polinchw/hello-github-webhook/compare/v4.1.2...v4.1.3) (2023-11-05)
-
-
-### Bug Fixes
-
-* Update the create the release to v2. [#59](https://github.com/polinchw/hello-github-webhook/issues/59) ([490d4e5](https://github.com/polinchw/hello-github-webhook/commit/490d4e54ce57e8f4c3006607ab2440ad7d6bb480))
 
 
 
