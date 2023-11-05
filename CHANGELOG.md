@@ -1,3 +1,12 @@
+## [4.1.4](https://github.com/polinchw/hello-github-webhook/compare/v4.1.3...v4.1.4) (2023-11-05)
+
+
+### Bug Fixes
+
+* Fix the release process [#61](https://github.com/polinchw/hello-github-webhook/issues/61) ([ee2bf4f](https://github.com/polinchw/hello-github-webhook/commit/ee2bf4fedf6d1fa7bef01d6d8f5a3623abc3920f))
+
+
+
 ## [4.1.3](https://github.com/polinchw/hello-github-webhook/compare/v4.1.2...v4.1.3) (2023-11-05)
 
 
@@ -34,15 +43,6 @@
 * [#53](https://github.com/polinchw/hello-github-webhook/issues/53) Rollback my change. ([3bf8e2f](https://github.com/polinchw/hello-github-webhook/commit/3bf8e2f230ff877fa4ded331bb0f0eeda84e9be6))
 * [#53](https://github.com/polinchw/hello-github-webhook/issues/53) This is a new issue commit. ([a3f75c9](https://github.com/polinchw/hello-github-webhook/commit/a3f75c9db3c8013841610d73e47fe60730d2e30b))
 * [#53](https://github.com/polinchw/hello-github-webhook/issues/53) This is a second commit. ([d45edea](https://github.com/polinchw/hello-github-webhook/commit/d45edea3dd732d94419a9b7c9ac97c97c696ef02))
-
-
-
-## [4.0.9](https://github.com/polinchw/hello-github-webhook/compare/v4.0.8...v4.0.9) (2022-11-25)
-
-
-### Bug Fixes
-
-* Demo Issue [#51](https://github.com/polinchw/hello-github-webhook/issues/51) ([4f11449](https://github.com/polinchw/hello-github-webhook/commit/4f1144977e1734c29b6999334aee54f33e174aff))
 
 
 
