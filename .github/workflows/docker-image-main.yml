@@ -22,6 +22,8 @@ jobs:
   push_to_registry:
     name: Push Docker image to Docker Hub
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Check out the repo
         uses: actions/checkout@v3
@@ -54,6 +56,7 @@ jobs:
       #     title: ${{ steps.changelog.outputs.tag }}
 
       - uses: ncipollo/release-action@v1
+        if: ${{ steps.changelog.outputs.skipped == 'false' }}
         with:
           artifacts: "release.tar.gz,foo/*.txt"
           bodyFile: "body.md"
