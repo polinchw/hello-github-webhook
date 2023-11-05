@@ -1,3 +1,12 @@
+## [4.1.6](https://github.com/polinchw/hello-github-webhook/compare/v4.1.5...v4.1.6) (2023-11-05)
+
+
+### Bug Fixes
+
+* Try ncipollo/release-action@v1 [#65](https://github.com/polinchw/hello-github-webhook/issues/65) ([071e225](https://github.com/polinchw/hello-github-webhook/commit/071e2253472558951eb1d9c99bb54d537cbbe3fc))
+
+
+
 ## [4.1.5](https://github.com/polinchw/hello-github-webhook/compare/v4.1.4...v4.1.5) (2023-11-05)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Fix the release process.  The change log is not working. [#57](https://github.com/polinchw/hello-github-webhook/issues/57) ([a45272a](https://github.com/polinchw/hello-github-webhook/commit/a45272af7b05fbccbc2521b782f47ec9704b7d7b))
-
-
-
-## [4.1.1](https://github.com/polinchw/hello-github-webhook/compare/v4.1.0...v4.1.1) (2023-11-05)
-
-
-### Bug Fixes
-
-* New test issue [#55](https://github.com/polinchw/hello-github-webhook/issues/55) ([b6bfe6b](https://github.com/polinchw/hello-github-webhook/commit/b6bfe6b62f7e6d96a4ca0d513d91388d6c709717))
 
 
 
