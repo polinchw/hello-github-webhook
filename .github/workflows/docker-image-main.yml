@@ -59,7 +59,7 @@ jobs:
         # if: ${{ steps.changelog.outputs.skipped == 'false' }}
         with:
           artifacts: "release.tar.gz,foo/*.txt"
-          bodyFile: "body.md"
+          # bodyFile: "body.md"
           tag: ${{ steps.changelog.outputs.tag }}
           token: ${{ secrets.CHANGELOG_RELEASE }}
 
