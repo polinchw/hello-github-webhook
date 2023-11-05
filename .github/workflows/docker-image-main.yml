@@ -46,7 +46,7 @@ jobs:
           tag-prefix: 'v'
 
       - name: create release
-        uses: actions/create-release@v1.1.4
+        uses: actions/create-release@v1.0.0
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
         env:
           GITHUB_TOKEN: ${{ secrets.CHANGELOG_RELEASE }}
