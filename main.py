@@ -13,7 +13,6 @@ werkzeug.setLevel(os.environ.get('WERKZEUG_LOGLEVEL', 'ERROR').upper())
 # Port 9090
 app = Flask("pyProm")
 
-
 @app.route('/', methods=["GET"])
 def hi():
     """Returns 'ArgoCD is amazing'
