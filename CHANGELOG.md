@@ -1,3 +1,12 @@
+## [4.1.11](https://github.com/polinchw/hello-github-webhook/compare/v4.1.10...v4.1.11) (2023-11-06)
+
+
+### Bug Fixes
+
+* Try new releaes [#76](https://github.com/polinchw/hello-github-webhook/issues/76) ([1a51b65](https://github.com/polinchw/hello-github-webhook/commit/1a51b657192eb0c2c1ec244a8efeb5072fba9f0d))
+
+
+
 ## [4.1.10](https://github.com/polinchw/hello-github-webhook/compare/v4.1.9...v4.1.10) (2023-11-06)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Fix tag [#69](https://github.com/polinchw/hello-github-webhook/issues/69) ([60f79e6](https://github.com/polinchw/hello-github-webhook/commit/60f79e6e87d8be9225b6db56c0488fcac3100206))
-
-
-
-## [4.1.6](https://github.com/polinchw/hello-github-webhook/compare/v4.1.5...v4.1.6) (2023-11-05)
-
-
-### Bug Fixes
-
-* Try ncipollo/release-action@v1 [#65](https://github.com/polinchw/hello-github-webhook/issues/65) ([071e225](https://github.com/polinchw/hello-github-webhook/commit/071e2253472558951eb1d9c99bb54d537cbbe3fc))
 
 
 
