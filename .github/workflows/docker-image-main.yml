@@ -53,6 +53,8 @@ jobs:
         with:
           tag_name: ${{ steps.changelog.outputs.tag }}
           token: ${{ secrets.CHANGELOG_RELEASE }}
+          release_name: ${{ steps.changelog.outputs.tag }}
+          body: ${{ steps.changelog.outputs.clean_changelog }}
 
 
       - name: Build and push Docker image
