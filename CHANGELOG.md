@@ -1,3 +1,12 @@
+## [4.1.10](https://github.com/polinchw/hello-github-webhook/compare/v4.1.9...v4.1.10) (2023-11-06)
+
+
+### Bug Fixes
+
+* Try softprops release [#75](https://github.com/polinchw/hello-github-webhook/issues/75) ([e4d9606](https://github.com/polinchw/hello-github-webhook/commit/e4d960668571861d3ad7b0531af13f24a65a084a))
+
+
+
 ## [4.1.9](https://github.com/polinchw/hello-github-webhook/compare/v4.1.8...v4.1.9) (2023-11-05)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Try ncipollo/release-action@v1 [#65](https://github.com/polinchw/hello-github-webhook/issues/65) ([071e225](https://github.com/polinchw/hello-github-webhook/commit/071e2253472558951eb1d9c99bb54d537cbbe3fc))
-
-
-
-## [4.1.5](https://github.com/polinchw/hello-github-webhook/compare/v4.1.4...v4.1.5) (2023-11-05)
-
-
-### Bug Fixes
-
-* Create a releases folder [#63](https://github.com/polinchw/hello-github-webhook/issues/63) ([4820c85](https://github.com/polinchw/hello-github-webhook/commit/4820c85faa215f0688cf0cf975d4dce969286728))
 
 
 
