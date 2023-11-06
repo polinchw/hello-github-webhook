@@ -1,3 +1,13 @@
+## [4.1.14](https://github.com/polinchw/hello-github-webhook/compare/v4.1.13...v4.1.14) (2023-11-06)
+
+
+### Bug Fixes
+
+* [#82](https://github.com/polinchw/hello-github-webhook/issues/82) Add change log. ([9bc1276](https://github.com/polinchw/hello-github-webhook/commit/9bc127675e0246004fe6be0c81eb7db27c36034a))
+* [#82](https://github.com/polinchw/hello-github-webhook/issues/82) Remove the release_name. ([71c4819](https://github.com/polinchw/hello-github-webhook/commit/71c4819ba3be825c4eabd44c67ecd1aa56ef12a2))
+
+
+
 ## [4.1.13](https://github.com/polinchw/hello-github-webhook/compare/v4.1.12...v4.1.13) (2023-11-06)
 
 
@@ -31,15 +41,6 @@
 ### Bug Fixes
 
 * Try softprops release [#75](https://github.com/polinchw/hello-github-webhook/issues/75) ([e4d9606](https://github.com/polinchw/hello-github-webhook/commit/e4d960668571861d3ad7b0531af13f24a65a084a))
-
-
-
-## [4.1.9](https://github.com/polinchw/hello-github-webhook/compare/v4.1.8...v4.1.9) (2023-11-05)
-
-
-### Bug Fixes
-
-* Remove body file Remove body file [#73](https://github.com/polinchw/hello-github-webhook/issues/73) ([de6df27](https://github.com/polinchw/hello-github-webhook/commit/de6df27bc6eda6d284fb079f7a32eadfbeb0da74))
 
 
 
