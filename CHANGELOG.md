@@ -1,3 +1,12 @@
+## [4.1.12](https://github.com/polinchw/hello-github-webhook/compare/v4.1.11...v4.1.12) (2023-11-06)
+
+
+### Bug Fixes
+
+* Try old skip method [#78](https://github.com/polinchw/hello-github-webhook/issues/78) ([45b20e3](https://github.com/polinchw/hello-github-webhook/commit/45b20e3fc4d556da7fbcbf03e8227be530039545))
+
+
+
 ## [4.1.11](https://github.com/polinchw/hello-github-webhook/compare/v4.1.10...v4.1.11) (2023-11-06)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Remove bodyfile.md Remove bodyfile.md [#71](https://github.com/polinchw/hello-github-webhook/issues/71) ([3e4b1fa](https://github.com/polinchw/hello-github-webhook/commit/3e4b1fa933bea8dcbcf0099d6063bf010071f247))
-
-
-
-## [4.1.7](https://github.com/polinchw/hello-github-webhook/compare/v4.1.6...v4.1.7) (2023-11-05)
-
-
-### Bug Fixes
-
-* Fix tag [#69](https://github.com/polinchw/hello-github-webhook/issues/69) ([60f79e6](https://github.com/polinchw/hello-github-webhook/commit/60f79e6e87d8be9225b6db56c0488fcac3100206))
 
 
 
