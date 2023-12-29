@@ -4,7 +4,6 @@ import os
 from flask import Flask, request
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
-
 log = logging.getLogger('main')
 
 werkzeug = logging.getLogger('werkzeug')
