@@ -1,7 +1,8 @@
 import sys
 import logging
 import os
-from flask import Flask, request
+from datetime import datetime
+from flask import Flask, request, jsonify
 
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 log = logging.getLogger('main')
@@ -50,6 +51,19 @@ def demo():
 def sample():
     if request.method == "GET":
         return "OK", 200, None
+
+    return "Bad Request", 400, None
+
+
+@app.route('/time', methods=["GET"])
+def get_time():
+    """Returns the current time
+
+    Returns:
+        dict: JSON object containing the current time
+    """
+    if request.method == "GET":
+        return jsonify({"time": datetime.now().isoformat()}), 200
 
     return "Bad Request", 400, None
 
